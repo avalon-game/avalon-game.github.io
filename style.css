@@ -37,7 +37,7 @@ select {
     cursor: pointer;
 }
 
-.role-text {
+.role-list {
     white-space: pre-line;
     background-color: #ffffff;
     border: 1px solid #ccc;
@@ -51,6 +51,6 @@ select {
 
 button {
     margin-top: 30px;
-    padding: 10px 20px;
+    padding: 5px 15px;
     font-size: 16px;
 }
